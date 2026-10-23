@@ -1,0 +1,11 @@
+google-generativeai>=0.7
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+rank-bm25>=0.2
+pandas>=2.2
+gradio>=4.40
+python-dotenv>=1.0
+langdetect>=1.0.9
+gnani-vachana>=0.8.1
+pydub>=0.25
+numpy>=1.26

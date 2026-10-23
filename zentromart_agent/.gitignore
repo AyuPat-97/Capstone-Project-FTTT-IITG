@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.rag_cache/
+*.log
+tickets_created.csv
+sample_outputs/
+dist/
+build/
+*.egg-info/

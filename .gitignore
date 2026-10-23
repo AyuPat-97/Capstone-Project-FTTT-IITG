@@ -1,0 +1,37 @@
+# Secrets & Local Environment
+.env
+*.env
+*.key
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector Index / RAG Cache
+.rag_cache/
+*.index
+*.pkl
+
+# Logs & Temporary Data
+*.log
+tickets_created.csv
+single_input/
+single_output/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
